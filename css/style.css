@@ -248,4 +248,19 @@ footer {
         flex-wrap: wrap;
         flex-direction: column;
     }
+    
+    .media-body {
+        margin-top: 20px;
+    }
+    
+    .well {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column; 
+    }
+    
+    .well img {
+        display: block;
+        margin: 0 auto;
+    }
 }
